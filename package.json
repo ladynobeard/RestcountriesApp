@@ -1,0 +1,14 @@
+{
+  "name": "restcountriesapp",
+  "version": "1.0.0",
+  "description": "frontend JS with interesting display of data from restcountries.eu",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "ladynobeard",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.0.1"
+  }
+}
